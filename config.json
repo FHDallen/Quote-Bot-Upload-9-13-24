@@ -1,0 +1,12 @@
+{
+    "serverip": "hypixel.net",
+    "chatchannel": "1160427124142907492",
+    "homeguild": "346391533152501760",
+    "botid": "1159561316307054712",
+    "sendjoinleavemessages": false,
+    "namesToIgnore": [
+        "sampleName1",
+        "sampleName2"
+    ],
+    "kickmessage": "Bot kicked offline, check logs."
+}
